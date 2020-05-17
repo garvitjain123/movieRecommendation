@@ -1,30 +1,30 @@
 # movieRecommendation
-This is an app for movies recommendation based on either a particular movie or some genres
+
+This is an app for movies recommendation based on either a particular movie or some genres 
 
 This is a project named 'dotMovies' that is based on a dataset from Kaggle website
 
 The main aim is to create a movie recommendation system that takes into account various factors such as :
--> Genre
--> Production Companies
--> Production Countries
--> Spoken Languages
--> Cast
--> Crew
--> Belongs to a certain series of flims(Eg : Avengers Series, Batman Series)
--> Budget
--> Original Language
--> Popularity
--> Runtime
--> Status(Eg: Released, In Production, Post Production, Planned, etc)
--> Title
--> Vote_Average
--> Vote_Count
--> Ratings(These are different from Vote_avg as these were collected by the dataset creator)
+ -> Genre
+ -> Production Companies
+ -> Production Countries
+ -> Spoken Languages
+ -> Cast
+ -> Crew
+ -> Belongs to a certain series of flims(Eg : Avengers Series, Batman Series)
+ -> Budget
+ -> Original Language
+ -> Popularity
+ -> Runtime
+ -> Status(Eg: Released, In Production, Post Production, Planned, etc)
+ -> Title
+ -> Vote_Average
+ -> Vote_Count
+ -> Ratings(These are different from Vote_avg as these were collected by the dataset creator)
 
 *These all factors play a part in determining what all movies are realted to one another
 
 For eg:
-
 If you choose 'Avengers: Age of Ultron' you would probably get some movies around marvel productions like The Avengers as both of these have similar cast as well as director.
 
 How to start the server:
