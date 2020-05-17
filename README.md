@@ -27,6 +27,19 @@ For eg:
 
 If you choose 'Avengers: Age of Ultron' you would probably get some movies around marvel productions like The Avengers as both of these have similar cast as well as director.
 
+How to start the server:
+
+-> Clone the repository into a folder
+	git clone 
+-> cd into movieRecommendation
+	cd movieRecommendation
+-> Give execution permissions to all the scripts
+	chmod +x initiate.sh install.sh remove.sh run.sh stage.sh
+-> Run the executable initiate.sh
+	./initiate.sh
+-> To remove the project and clean the envirenment run the executable remove.sh
+	./remove.sh
+
 
 There is 2 parts to backend execution
 
