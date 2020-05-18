@@ -34,7 +34,7 @@ If you choose "Avengers: Age of Ultron" you would probably get some movies aroun
 ### How to start the server:
 
 ##### > Clone the repository into a folder
-	git clone 
+	git clone https://github.com/garvitjain123/movieRecommendation
 
 ##### > cd into movieRecommendation
 
